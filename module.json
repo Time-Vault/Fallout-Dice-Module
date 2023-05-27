@@ -7,10 +7,13 @@
         "name": "Mack Schmaltz"
       }
     ],
-  "version": "0.1",
+  "version": "1.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
   },
+  "scripts": [
+    "./scripts/simpleFODice.js"
+  ],
   "url":"https://github.com/Time-Vault/Fallout-Dice-Module"
 }
