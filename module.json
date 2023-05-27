@@ -15,5 +15,7 @@
   "scripts": [
     "./scripts/simpleFODice.js"
   ],
-  "url":"https://github.com/Time-Vault/Fallout-Dice-Module"
+  "url":"https://github.com/Time-Vault/Fallout-Dice-Module",
+  "manifest":"https://github.com/Time-Vault/Fallout-Dice-Module/releases/download/latest/module.json",
+  "download":"https://github.com/Time-Vault/Fallout-Dice-Module/archive/refs/tags/latest.zip"
 }
