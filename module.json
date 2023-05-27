@@ -1,5 +1,5 @@
 {
-  "name": "Fallout-Dice-Module",
+  "name": "fallout-dice-module",
   "title": "Fallout 2d20 Dice",
   "description": "This simple module is intended to allow users of the Fallout 2d20 module for FoundryVTT to easily roll the game's dice in the chat.",
   "authors": [
