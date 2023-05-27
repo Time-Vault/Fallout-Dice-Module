@@ -1,15 +1,19 @@
 {
-  "id": "fallout-dice",
+  "name": "Fallout-Dice-Module",
   "title": "Fallout 2d20 Dice",
   "description": "This simple module is intended to allow users of the Fallout 2d20 module for FoundryVTT to easily roll the game's dice in the chat.",
   "authors": [
-    {
-    "name": "Mack Schmaltz"
-    }
+      {
+        "name": "Mack Schmaltz"
+      }
     ],
-  "version": "0.1",
+  "version": "1.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
-  }
+  },
+  "scripts": [
+    "./scripts/simpleFODice.js"
+  ],
+  "url":"https://github.com/Time-Vault/Fallout-Dice-Module"
 }
